@@ -1,3 +1,3 @@
 # BizVision
 
-Live: https://k-sieradzki.github.io/BizVison/
+Live: https://k-sieradzki.github.io/BizVision/
